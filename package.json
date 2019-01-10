@@ -1,0 +1,23 @@
+{
+  "name": "ez-aws",
+  "version": "1.0.0",
+  "description": "Easy node interface with aws",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/tnimni/ez-aws.git"
+  },
+  "keywords": [
+    "aws",
+    "node"
+  ],
+  "author": "Tsachi Nimni",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tnimni/ez-aws/issues"
+  },
+  "homepage": "https://github.com/tnimni/ez-aws#readme"
+}
